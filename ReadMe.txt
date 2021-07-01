@@ -1,0 +1,1 @@
+bunlar benim c ögrenirken yaptığım basit c programlarıydı belki işinize yarar.
